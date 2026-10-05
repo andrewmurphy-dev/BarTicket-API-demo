@@ -266,7 +266,7 @@ erDiagram
 
 **Andrew Murphy** — Backend & ML Engineer · Japan
 
-[GitHub](https://github.com/andrewmurphy-dev) · [LinkedIn](https://www.linkedin.com/in/andrew-murphy-2a63b4289)
+[GitHub](https://github.com/andrewmurphy-dev) 
 
 ---
 
